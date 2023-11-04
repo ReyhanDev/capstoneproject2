@@ -1,0 +1,228 @@
+/* general */
+
+body {
+    margin: 0;
+
+    background-color: #EFEAD8;
+}
+
+
+
+/* Home page */
+#bbb
+{
+    color: #9DAB86;
+}
+
+body > div:nth-child(1) > nav {
+    background: #E08F62 !important;
+}
+
+.navbar-item {
+    font-weight: 600 !important;
+}
+
+footer span {
+    font-weight: bold;
+}
+
+body > div.px-5.py-5.my-3.text-center > h1 {
+    color: #AA530E !important;
+    font-family: 'Vollkorn', serif;
+}
+
+body > div.px-5.py-5.my-3.text-center > div > p {
+    font-family: 'Lato', sans-serif;
+    color: #362222;
+}
+
+footer {
+    border-top: solid #5F7161 1px ;
+}
+
+#navbarsExample10 > ul > li.nav-item.dropdown > ul {
+    background-color: #F2DDC1;
+}
+
+div > ul > li > a {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+}
+
+
+body > div.container.col-xxl-8.px-4.py-4 > div > div:nth-child(2) > p {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 500 !important;
+}
+
+body > div.container.col-xxl-8.px-4.py-4 > div > div:nth-child(2) > h1 {
+    color: #AA530E !important;
+    font-family: 'Vollkorn', serif;
+}
+.footer-icons{
+    margin-left: 25px !important;
+    color: #5F7161 !important;
+}
+
+
+
+/* Contact Me */
+#contact-title {
+    font-family: 'Vollkorn', serif;
+    color: #AA530E !important;
+
+
+}
+
+#contact-info {
+    font-family: 'Lato', sans-serif !important;
+    color: #362222;
+    font-size: 1.2rem;
+
+}
+
+#contact-back {
+    background: #E08F62;
+    border: solid #DFA67B 1px;
+    font-weight: 500;
+    color: white;
+}
+
+#contact-back:hover {
+    background-color: #AA530E !important;
+    border-color: #AA530E !important;
+}
+
+/* Education and skills*/
+#education-title {
+    font-family: 'Vollkorn', serif;
+    color: #AA530E !important;
+    font-size: 2.5rem;
+}
+
+#education-info {
+    font-family: 'Lato', sans-serif !important;
+    font-size: larger;
+}
+
+.education-text {
+    font-family: 'Lato', sans-serif !important;
+    font-size: larger;
+
+}
+
+.skills-text {
+    font-family: 'Lato', sans-serif !important;
+    font-size: larger;
+}
+
+.skills-info {
+    font-family: 'Lato', sans-serif !important;
+    font-size: larger;
+}
+
+
+
+#skills-title {
+    font-family: 'Vollkorn', serif;
+    color: #AA530E !important;
+    font-size: 2.5rem;
+}
+
+.skills-name {
+    font-family: 'Lato', sans-serif !important;
+    color: #362222 !important;
+}
+
+.icon-square {
+    background-color: #F3EDED !important;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.ed-icons {
+    color: #AA530E;
+}
+
+ 
+
+
+/* Work Eperience */
+
+#we-title {
+    font-family: 'Vollkorn', serif;
+    color: #AA530E !important;
+    font-size: 2.5rem;
+}
+
+.we-text {
+    font-family: 'Lato', sans-serif !important;
+    font-size: larger;
+
+}
+
+
+/* Project */
+
+#project-title {
+    font-family: 'Vollkorn', serif;
+    color: #AA530E !important;
+    font-size: 2.5rem;
+
+}
+
+#project-info {
+    font-family: 'Lato', sans-serif !important;
+    font-size: 1.4rem;
+
+}
+
+.project-img {
+    height: 100%;
+
+}
+
+.img-body {
+    font-weight: 30%;
+    height: 30%;
+}
+
+.card-back {
+    background-color: #F3EDED ;
+}
+
+.project-btn {
+    background: #E08F62;
+    border: solid #DFA67B 1px;
+    font-weight: 500;
+    color: white;
+}
+
+.project-btn:hover {
+    background-color: #AA530E ;
+    border-color: #AA530E ;
+    color: #362222;
+
+}
+
+.project-btn:focus {
+    color: #362222 !important;
+
+}
+
+.project-btn:active {
+    background-color: none !important;
+    border-color: #AA530E !important;
+    color: #362222 !important;
+
+}
+
+.card-text {
+    font-family: 'Lato', sans-serif !important;
+    font-size: 1.1rem;
+}
+
+.col-3 {
+    margin-right: 4rem ;
+}
